@@ -25,7 +25,7 @@ repositories:
 
 website: "https://github.com/getsops"
 
-artwork: "https://landscape.cncf.io/logos/sops.svg"
+artwork: "https://github.com/cncf/artwork/tree/main/projects/sops"
 
 # TODO: Add ADOPTERS.md if your project tracks adopters
 # adopters:
